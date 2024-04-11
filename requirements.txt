@@ -10,7 +10,7 @@ click==7.1.2
 colorama==0.4.3
 cryptography==41.0.4
 docutils==0.16
-idna==2.10
+idna==3.7
 iniconfig==1.0.1
 jeepney==0.8.0
 keyring==21.4.0
